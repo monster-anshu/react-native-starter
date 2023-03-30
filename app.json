@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "deliveroo",
+    "slug": "deliveroo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./static/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./static/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./static/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./static/favicon.png"
+    }
+  }
+}
